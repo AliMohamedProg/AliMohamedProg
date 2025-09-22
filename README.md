@@ -1,6 +1,9 @@
 
-<div align="center" width="50">
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Ali+Mohamed;Backend+.NET+Developer;ASP.NET+Core+%7C+SQL+Server+%7C+Angular)
+
+</div>
 
 
 ## 👨‍💻 About Me  
