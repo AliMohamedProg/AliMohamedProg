@@ -49,10 +49,10 @@
   <img src="https://img.shields.io/badge/Email-1E90FF?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
 </div>
