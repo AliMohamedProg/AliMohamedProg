@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AliMohamedProg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white&background=blue" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="mailto:alimohamed.developer.contact@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E90FF?style=flat&logo=gmail&logoColor=white" />
