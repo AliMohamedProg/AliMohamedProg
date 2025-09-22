@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me  
 
-- 🔹 I’m **Ali Mohamed**, a passionate **Backend Developer** specialized in **ASP.NET Core** and **SQL Server**.  
-- 🔹 I enjoy building **scalable, secure, and high-performance web applications**.  
-- 🔹 I’m constantly learning new technologies and improving my skills to deliver clean and efficient solutions.  
-- 🔹 Interested in **Web Development, APIs, Databases, and Software Architecture**.  
-- 🔹 Open to collaboration on **ASP.NET Core projects** and backend-focused applications.  
+  🔹 I’m **Ali Mohamed**, a passionate **Backend Developer** specialized in **ASP.NET Core** and **SQL Server**.  
+  🔹 I enjoy building **scalable, secure, and high-performance web applications**.  
+  🔹 I’m constantly learning new technologies and improving my skills to deliver clean and efficient solutions.  
+  🔹 Interested in **Web Development, APIs, Databases, and Software Architecture**.  
+  🔹 Open to collaboration on **ASP.NET Core projects** and backend-focused applications.  
 
 📧 Reach me at: **alimohamed.developer.contact@gmail.com**
 
