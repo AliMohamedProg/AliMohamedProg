@@ -1,8 +1,7 @@
 
 <div align="center" width="50">
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/AliMohamedProg" alt="Hello Coders" width="60%"/>
-<br> <img src="https://github.com/AliMohamedProg/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AliMohamedProg" alt="Workspace" width="40%"/><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Ali+Mohamed)
 
 
 
