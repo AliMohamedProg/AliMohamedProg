@@ -73,19 +73,19 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/AliMohamedProg" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AliMohamedProg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="mailto:alimohamed.developer.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1E90FF?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
 </div>
