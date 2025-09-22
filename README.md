@@ -1,9 +1,11 @@
 <div align="center" width="50">
+  
 <p align="center">
   <a href="https://github.com/AliMohamedProg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=👋+Hello+Coders!;I'm+Ali+Mohamed;Backend+Developer+%7C+ASP.NET+Core;Crafting+Scalable+%26+Secure+Web+Apps;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=👋+Hello+Coders!;I'm+Ali+Mohamed;Backend+Developer+%7C+ASP.NET+Core;Crafting+Scalable+%26+Secure+Web+Apps;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ## 👨‍💻 About Me  
