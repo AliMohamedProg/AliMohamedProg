@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliMohamedProg&style=flat&color=1E90FF&label=PROFILE+VIEWS)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
 [![Gmail Badge](https://img.shields.io/badge/-alimohamed.developer.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimohamed.developer.contact@gmail.com)
 
