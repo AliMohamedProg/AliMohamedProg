@@ -3,8 +3,16 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# 👋 Hi, I'm Ali Mohamed
-### 💻 Backend Developer | ASP.NET Core Specialist  
+## 👨‍💻 About Me  
+
+- 🔹 I’m **Ali Mohamed**, a passionate **Backend Developer** specialized in **ASP.NET Core** and **SQL Server**.  
+- 🔹 I enjoy building **scalable, secure, and high-performance web applications**.  
+- 🔹 I’m constantly learning new technologies and improving my skills to deliver clean and efficient solutions.  
+- 🔹 Interested in **Web Development, APIs, Databases, and Software Architecture**.  
+- 🔹 Open to collaboration on **ASP.NET Core projects** and backend-focused applications.  
+
+📧 Reach me at: **alimohamed.developer.contact@gmail.com**
+
 
 </div>
 
