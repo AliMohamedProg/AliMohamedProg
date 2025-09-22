@@ -68,16 +68,20 @@
 
 </div>
 
+## 🌐 Social Accounts  
 
+<div align="center">
 
----
+<a href="https://linkedin.com/in/AliMohamedProg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AliMohamedProg" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:alimohamed.developer.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 📫 Contact Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 [Email](mailto:alimohamed.developer.contact@gmail.com)  
-- 🌐 [Portfolio](https://your-portfolio.com/)  
-
----
+</div>
 
 ⭐️ From [Ali Mohamed](https://github.com/AliMohamedProg)
