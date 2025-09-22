@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Coders%2C+I'm+Ali+Mohamed;Backend+Developer+%7C+ASP.NET+Core;Passionate+about+Clean+Code+%26+Scalable+Apps)](https://git.io/typing-svg)
 
 
