@@ -1,9 +1,8 @@
 
 <div align="center" width="50">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Ali+Mohamed)
-
-
+<div align="center">
+  <img src="https://github.com/AliMohamedProg/AliMohamedProg/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ## 👨‍💻 About Me  
 
