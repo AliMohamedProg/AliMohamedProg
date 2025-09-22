@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AliMohamed&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Gmail Badge](https://img.shields.io/badge/-Contact%20Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alimohamed.developer.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimohamed.developer.contact@gmail.com)
 
 </div>
 
@@ -58,7 +58,7 @@
 ## 📫 Contact Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 [Email](mailto:yourmail@gmail.com)  
+- 📧 [Email](mailto:alimohamed.developer.contact@gmail.com)  
 - 🌐 [Portfolio](https://your-portfolio.com/)  
 
 ---
