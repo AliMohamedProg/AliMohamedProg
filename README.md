@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<h1>Hello, I'm Ali Mohamed</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&width=550&lines=Hello,+I'm+Ali+Mohamed;)
+
+</div>
 
 </div>
 
