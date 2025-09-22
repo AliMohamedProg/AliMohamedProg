@@ -90,7 +90,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliMohamedProg&theme=github-dark&hide_border=true)
 
 </div>
----
 
 
 
